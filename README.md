@@ -1,7 +1,7 @@
 # Data Visualization
 ## Projeto de Data Visualization | MBA em Engenharia de Dados
 #### Link para observatório: https://matheus09gr.github.io/data-visualization/
-<br>
+
 
 ## Escopo do Projeto
 
