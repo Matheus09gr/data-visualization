@@ -1,5 +1,6 @@
 # Data Visualization
 ## Projeto de Data Visualization | MBA em Engenharia de Dados
+## Link para observatório: https://matheus09gr.github.io/data-visualization/observatorio-wrc/v3-1.html
 
 Este projeto consiste em um Observatório interativo sobre os campeões do Campeonato Mundial de Rali (WRC), utilizando uma base histórica de 1977 a 2026. O objetivo é analisar como a concentração de títulos entre pilotos e montadoras mudou ao longo dos anos, além de observar a participação das diferentes nacionalidades nesse período.
 
@@ -7,12 +8,12 @@ Para isso, desenvolvemos uma página com gráficos, indicadores e filtros intera
 
 ## Dificuldades apresentadas
 
-Acho que a maior dificuldade que tive nesse projeto foi conseguir transformar algo que eu já entendia em uma informação visual que fosse simples de interpretar para alguém que não conhece o assunto. Como eu já estava familiarizado com os dados, muitas coisas pareciam óbvias, mas, conforme fui montando os gráficos, percebi que nem sempre o que estava claro para mim seria claro para outra pessoa.
+A principal dificuldade deste projeto foi traduzir em representações visuais claras um conjunto de dados que eu já dominava. Por conhecer bem a base, muitas informações me pareciam autoexplicativas, mas, ao longo da construção dos gráficos, percebi que essa familiaridade criava um viés: o que era evidente para mim não necessariamente seria para um público sem contato prévio com o tema.
 
-Um exemplo disso foi a parte de concentração de títulos entre pilotos e montadoras. Em alguns gráficos, eu estava trabalhando apenas com percentuais, mas percebi que, mesmo estando corretos, eles não explicavam muito bem o que estava sendo analisado. Acabei tendo que incluir os valores absolutos e fazer alguns ajustes para deixar mais evidente o que cada gráfico realmente mostrava.
+Esse problema ficou claro na análise da concentração de títulos entre pilotos e montadoras. Os primeiros gráficos utilizavam apenas percentuais, que, embora corretos, não permitiam dimensionar o fenômeno analisado. Passei a incluir também os valores absolutos e a revisar a estrutura de cada visualização para que a mensagem principal ficasse explícita.
 
-Outra coisa que deu bastante trabalho foi a parte visual. Precisei mexer algumas vezes nas fontes, tamanhos dos textos, cores e contrastes. Um gráfico que parecia bom na minha tela poderia não ficar tão legível em outra, dependendo do brilho, da resolução ou até do tamanho do dispositivo. Teve até uma situação em que precisei mudar a cor dos números dentro das barras porque alguns estavam difíceis de enxergar.
+Outro ponto crítico foi a legibilidade. Foram necessários ajustes sucessivos de tipografia, tamanho de fonte, paleta de cores e contraste, pois uma visualização adequada na minha tela podia perder clareza em outros dispositivos, conforme brilho, resolução e dimensões. Em um dos gráficos, por exemplo, tive que alterar a cor dos rótulos dentro das barras, que apresentavam contraste insuficiente com o preenchimento.
 
-Também me preocupei bastante com a responsividade da página. Não queria que o Observatório funcionasse bem apenas no computador, então procurei adaptar os gráficos, os espaçamentos e as interações para quem acessasse pelo celular também conseguir navegar e entender as informações sem dificuldade.
+Também tratei da responsividade como requisito de projeto. Como o Observatório não deveria funcionar bem apenas em desktop, adaptei os gráficos, os espaçamentos e os elementos de interação para garantir uma navegação fluida e a compreensão das informações em dispositivos móveis.
 
-No geral, foi essa a parte mais trabalhosa para mim: não apenas criar os gráficos, mas olhar para eles tentando pensar como alguém que nunca teve contato com o WRC. Percebi que conhecer os dados ajuda na análise, mas não significa necessariamente saber apresentá-los de uma forma que qualquer pessoa consiga entender.
+Concluo que a maior dificuldade não esteve na criação dos gráficos em si, mas na mudança de perspectiva: avaliá-los do ponto de vista de alguém sem conhecimento prévio do WRC. O domínio dos dados favorece a análise, mas não garante, por si só, a capacidade de comunicá-los de forma acessível.
