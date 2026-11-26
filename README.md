@@ -1,8 +1,7 @@
 # Data Visualization
 ## Projeto de Data Visualization | MBA em Engenharia de Dados
---- 
-Link para observatório: https://matheus09gr.github.io/data-visualization/
----
+### Link para observatório: https://matheus09gr.github.io/data-visualization/
+
 Este projeto consiste em um Observatório interativo sobre os campeões do Campeonato Mundial de Rali (WRC), utilizando uma base histórica de 1977 a 2026. O objetivo é analisar como a concentração de títulos entre pilotos e montadoras mudou ao longo dos anos, além de observar a participação das diferentes nacionalidades nesse período.
 
 Para isso, desenvolvemos uma página com gráficos, indicadores e filtros interativos que permitem comparar os resultados por décadas. A proposta é apresentar os dados de forma simples e visual, facilitando a compreensão até mesmo para quem não acompanha o automobilismo ou não conhece a história do WRC.
